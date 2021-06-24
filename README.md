@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KataMe-code
-- 👀 I’m interested in React.js ans Spring framework
+- 👀 I’m interested in React.js and Next.js and Spring framework
 - 🌱 I’m currently learning React.js and Spring framework
 
 <!---
