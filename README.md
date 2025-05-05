@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KataMe-code
-- 👀 I’m interested in React.js and Next.js and Python(FastAPI)
+- 👀 I’m interested in React.js and Python(FastAPI)
 - 🌱 I’m currently learning React.js and Python 
 
 <!---
